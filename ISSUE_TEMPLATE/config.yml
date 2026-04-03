@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussões
+    url: https://github.com/orgs/tekojs/discussions
+    about: Para dúvidas gerais e discussões, utilize o fórum de discussões da organização.
+  - name: 🔒 Vulnerabilidade de Segurança
+    url: https://github.com/tekojs/.github/blob/main/SECURITY.md
+    about: Para reportar uma vulnerabilidade de segurança, consulte nossa política de segurança.
